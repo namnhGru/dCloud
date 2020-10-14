@@ -3,3 +3,8 @@
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1289  100  1289    0     0   2619      0 --:--:-- --:--:-- --:--:--  2614
 Current SYNC_VERSION 1
 Pod up to date.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1289  100  1289    0     0   2656      0 --:--:-- --:--:-- --:--:--  2657
+Current SYNC_VERSION 1
+Pod up to date.
